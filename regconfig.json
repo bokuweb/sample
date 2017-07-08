@@ -1,0 +1,14 @@
+{
+  "core": {
+    "workingDir": "/Users/bokuweb/workspace/sample/reg",
+    "actualDir": "actual",
+    "expectedDir": "expected"
+  },
+  "plugins": {
+    "reg-keygen-git-hash-plugin": {},
+    "reg-notify-github-plugin": {},
+    "reg-publish-s3-plugin": {
+      "bucketName": "reg-publish-bucket-74cf2534-ff1a-47bb-800e-245b1d53b3a0"
+    }
+  }
+}

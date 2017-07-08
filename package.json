@@ -1,0 +1,13 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bokuweb/sample.git",
+  "author": "bokuweb <bokuweb12@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "reg-keygen-git-hash-plugin": "0.0.17",
+    "reg-notify-github-plugin": "0.0.17",
+    "reg-publish-s3-plugin": "0.0.17"
+  }
+}
