@@ -7,7 +7,8 @@
   "license": "MIT",
   "devDependencies": {
     "reg-keygen-git-hash-plugin": "0.0.17",
-    "reg-notify-github-plugin": "0.0.17",
-    "reg-publish-s3-plugin": "0.0.17"
+    "reg-notify-github-plugin": "0.0.18",
+    "reg-publish-s3-plugin": "0.0.17",
+    "reg-suit": "0.0.18"
   }
 }
