@@ -1,6 +1,6 @@
 {
   "core": {
-    "workingDir": "/Users/bokuweb/workspace/sample/reg",
+    "workingDir": "/Users/ueki/misc/sample/reg",
     "actualDir": "actual",
     "expectedDir": "expected"
   },
@@ -8,7 +8,7 @@
     "reg-keygen-git-hash-plugin": {},
     "reg-notify-github-plugin": {},
     "reg-publish-s3-plugin": {
-      "bucketName": "reg-publish-bucket-74cf2534-ff1a-47bb-800e-245b1d53b3a0"
+      "bucketName": "reg-publish-bucket-e6128e54-49ce-4181-ba82-02dd966efe37"
     }
   }
 }
