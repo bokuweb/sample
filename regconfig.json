@@ -5,10 +5,10 @@
     "expectedDir": "expected"
   },
   "plugins": {
-    "reg-keygen-git-hash-plugin": {},
-    "reg-notify-github-plugin": {},
+    "reg-keygen-git-hash-plugin": true,
+    "reg-notify-github-plugin": true,
     "reg-publish-s3-plugin": {
-      "bucketName": "reg-publish-bucket-e6128e54-49ce-4181-ba82-02dd966efe37"
+      "bucketName": "reg-publish-bucket-a0ca31ae-97bb-4f4e-8b24-1ef4d4e2e525"
     }
   }
 }
